@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -d 701
+chmod 701 ./
