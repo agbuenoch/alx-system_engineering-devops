@@ -1,2 +1,2 @@
 #!/bin/bash
-chown owner:vincent chgrp group:staff
+chown -R root:staff ./
