@@ -1,1 +1,0 @@
-0-hello_world script = prints "Hello World to standard output"
