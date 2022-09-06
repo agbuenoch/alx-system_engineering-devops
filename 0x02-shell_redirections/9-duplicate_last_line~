@@ -1,2 +1,0 @@
-#!/bin/bash
-tail iacta | tail -n +10 | echo >> iacta 
