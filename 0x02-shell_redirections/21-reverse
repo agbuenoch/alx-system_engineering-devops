@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "enoch" | rev
+echo -e "enoch\n" | rev
