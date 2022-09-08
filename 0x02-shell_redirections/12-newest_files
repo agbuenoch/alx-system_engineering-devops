@@ -1,2 +1,2 @@
 #!/bin/bash 
-find . -type f | tail | sort -M
+find . -type f | tail | sort -rM
