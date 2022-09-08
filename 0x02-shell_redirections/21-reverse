@@ -1,2 +1,2 @@
 #!/bin/bash
-echo enoch | cat -r
+echo enoch | rev
