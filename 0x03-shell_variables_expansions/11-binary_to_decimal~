@@ -1,0 +1,3 @@
+#!/bin/bash
+BINARY=2
+echo "$(( (1 * BINARY**2) + (1 * BINARY**1) + (1 * BINARY**0) ))"
